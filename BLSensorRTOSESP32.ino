@@ -1,3 +1,7 @@
+#Real time PPG retreival and sending over Bluetooth at 125Hz fixed using Round Robin architecture
+
+
+
 #include <DoubleEMAFilterLib.h>
 //#include <SingleEMAFilterLib.h>
 #include <Wire.h>
